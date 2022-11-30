@@ -12,7 +12,7 @@ People use GitHub to build some of the most advanced technologies in the world. 
 
 ## How to start this course
 
-1. Open follwing URL in browser, click **Fork** and open the link in a new tab.
+1. Open following URL in browser, click **Fork** and open the link in a new tab.
    `https://github.com/fenago/introduction-to-github`
 
    ![](./images/1.jpg)
@@ -46,7 +46,6 @@ On additional branches, you can make edits without impacting the `main` version.
 4. In the field, enter a name for your branch: `my-first-branch`.
 5. Click **Create branch: my-first-branch** to create your branch.
 6. Move on to Step 2!<br>
-   **Note**: If you made a public repository, and want to confirm you correctly set up your first branch, wait about 20 seconds then refresh this page (the one you're following instructions from). `GitHub Actions` will automatically close this step and open the next one.
 
 
 <summary><h2>Step 2: Commit a file</h2></summary>
@@ -77,10 +76,6 @@ The following steps will guide you through the process of committing a change on
    
 6. In this lesson, we'll ignore the other fields and click **Commit new file**.
 7. Move on to Step 3! <br>
-   **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions] will automatically close this step and open the next one.
-
-
-
 
 
 <summary><h2>Step 3: Open a pull request</h2></summary>
@@ -111,21 +106,17 @@ You may have noticed after your commit that a message displayed indicating your 
    <img alt="screenshot showing pull request" src="./images/Pull-request-description.png"/>
 8. Click **Create pull request**.
 9. Move on to Step 4! <br>
-   **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions] will automatically close this step and open the next one. As a perk, you may see evidence of GitHub Actions running on the tab with the pull request opened! The image below shows a line you might see on your pull request after the Action finishes running.<br>
-   <img alt="screenshot of an example of an actions line" src="./images/Actions-to-step-4.png"/>
-
 
 
 <summary><h2>Step 4: Merge your pull request</h2></summary>
 
-_Nicely done friend! :sunglasses:_
+_Nicely done friend!
 
 You successfully created a pull request. You can now merge your pull request.
 
 **What is a _merge_**: A `merge` adds the changes in your pull request and branch into the `main` branch.
 
-
-As noted in the previous step, you may have seen evidence of an action running which automatically progresses your instructions to the next step. You'll have to wait for it to finish before you can merge your pull request. It will be ready when the merge pull request button is green.
+You'll have to wait before you can merge your pull request. You can merge when the merge pull request button is green.
 
 ![screenshot of green merge pull request button](./images/Green-merge-pull-request.png)
 ### Activity: Merge the pull request
@@ -135,9 +126,6 @@ As noted in the previous step, you may have seen evidence of an action running w
 1. Once your branch has been merged, you don't need it anymore. To delete this branch, click **Delete branch**.<br>
    <img alt="screenshot showing delete branch button" src="./images/delete-branch.png"/>
 2. Check out the **Finish** step to see what you can learn next!<br>
-   **Note**: Like before, you can wait about 20 seconds, then refresh this page (the one you're following instructions from) and [GitHub Actions] will automatically close this step and open the next one.
-
-
 
 Here's a recap of your accomplishments:
 
