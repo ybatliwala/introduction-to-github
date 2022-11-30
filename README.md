@@ -18,8 +18,8 @@ People use GitHub to build some of the most advanced technologies in the world. 
    ![](./images/1.jpg)
 2. In the new tab, follow the prompts to create a new repository.
    - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository—private repositories will [use Actions minutes].
-   ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
+   
+   ![](./images/2.jpg)
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
 <summary><h2>Step 1: Create a branch</h2></summary>
